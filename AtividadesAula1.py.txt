@@ -1,0 +1,15 @@
+#Atividades de python 1 aula
+
+print("Ciências da Computação - FMU")
+
+profissao = str(input("Digite a sua profisão: "))
+print("Sua profissão é ", profissao)
+
+idade = int(input("Digite a sua idade: "))
+print("Sua idade é ", idade)
+
+sobrenome = str(input("Digite seu sobrenome: "))
+print("Família: ", sobrenome)
+
+esporte = str(input("Digite o seu esporte favorito: "))
+print("Seu esporte favorito é ", esporte)
