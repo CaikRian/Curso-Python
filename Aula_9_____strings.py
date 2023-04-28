@@ -13,21 +13,21 @@ print(qtd)
 
 
 # Conta a quantidade de caractere de um texto
-#num = input("Digite um número inteiro: ")
-#t = len(str(num))
-#print("quantidade de caractere(s):", qt)
+num = input("Digite um número inteiro: ")
+t = len(str(num))
+print("quantidade de caractere(s):", qt)
 
 
 # inverte o texto digitado
-#string = input("Digite um texto: ")
-#inversa = " "
-#for x in string:
-#    inversa = x + inversa
-#print(inversa)
+string = input("Digite um texto: ")
+inversa = " "
+for x in string:
+    inversa = x + inversa
+print(inversa)
 
 
-#s = "ABC"
-#print(s + "D")
+s = "ABC"
+print(s + "D")
 
 idade = 17
 nome = "Caik"
@@ -45,9 +45,9 @@ print(fruit[3:]) # fatia do FINAL até a posição 3
 print(fruit[0:-2]) # fatia do final para o inicio, excluindo as duas ultimas posições
 
 # _____ Programa que exibe o numero inteiro em inverso
-#num = input("Digite um numero inteiro:")
-#num = num[::-1]
-#print(num)
+num = input("Digite um numero inteiro:")
+num = num[::-1]
+print(num)
 
 
 #____STRIP()____Tira todos os espaços em branco do inicio e no final de uma variavel
